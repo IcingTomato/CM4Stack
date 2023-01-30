@@ -1,0 +1,1 @@
+cmd_/home/m5stack/AW882XX_Driver/aw882xx_drv.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/m5stack/AW882XX_Driver/aw882xx_drv.ko /home/m5stack/AW882XX_Driver/aw882xx_drv.o /home/m5stack/AW882XX_Driver/aw882xx_drv.mod.o;  true
