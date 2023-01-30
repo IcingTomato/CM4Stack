@@ -1,0 +1,18 @@
+M5Stack CM4Stack
+================
+
+There are several guides for CM4Stack developers and users. These guides can
+be rendered in a number of formats, like HTML and PDF. Please read
+https://docs.m5stack.com/zh_CN/quick_start/cm4stack/develop first.
+
+In order to build the documentation, use ``make htmldocs`` or
+``make pdfdocs``.  The formatted documentation can also be read online at:
+
+    https://docs.m5stack.com/zh_CN/products/cm4stack/develop
+
+There are various text files in the quick_start/ subdirectory,
+several of them using the Restructured Text markup notation.
+
+Please read the quick_start/cm4stack/develop file, as it contains the
+requirements for building and running the machine, and information about
+the problems which may result by upgrading your machine.
